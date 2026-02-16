@@ -120,10 +120,24 @@ I confirm that all the work in this repository was done by me personally. All co
 
 ## Final Checklist (Apply Before Submission)
 
-- [x] Correct PDB names used  
-- [x] User created inside the PDB  
-- [x] Temporary PDB created and deleted  
-- [x] OEM dashboard screenshot included  
-- [x] GitHub repository is PUBLIC  
-- [x] README is clear and professional  
-- [x] Deadline respected  
+- [x] **Correct PDB names used **
+
+- [x] **User created inside the PDB**
+ 
+- [x] **Temporary PDB created and deleted**
+
+- [x] **OEM dashboard screenshot included**
+ 
+- [x] **GitHub repository is PUBLIC**
+ 
+- [x] **README is clear and professional**
+ 
+- [x] **Deadline respected**
+
+
+
+**Repository Link**: [GitHub URL]
+
+**PDB Name Created**: ka_pdb_29178
+
+**Issues Encountered**: Yes
