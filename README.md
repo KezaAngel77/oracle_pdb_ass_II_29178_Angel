@@ -136,7 +136,7 @@ I confirm that all the work in this repository was done by me personally. All co
 
 ---
 
-**Repository Link**: [GitHub URL]
+**Repository Link**: (https://github.com/KezaAngel77/oracle_pdb_ass_II_29178_Angel.git)
 
 **PDB Name Created**: ka_pdb_29178
 
