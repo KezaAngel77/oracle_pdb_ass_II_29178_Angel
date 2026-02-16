@@ -114,3 +114,16 @@ DROP PLUGGABLE DATABASE ka_to_delete_pdb_29178 INCLUDING DATAFILES;
 I confirm that all the work in this repository was done by me personally. All commands were executed on my own machine and all screenshots reflect my own Oracle environment. I did not copy or share work with any other student.
 
 **KAYITARE KEZA Angel | 29178 | INSY 8311 | February 2026**
+
+
+---
+
+## Final Checklist (Apply Before Submission)
+
+- [x] Correct PDB names used  
+- [x] User created inside the PDB  
+- [x] Temporary PDB created and deleted  
+- [x] OEM dashboard screenshot included  
+- [x] GitHub repository is PUBLIC  
+- [x] README is clear and professional  
+- [x] Deadline respected  
